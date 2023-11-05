@@ -17,3 +17,10 @@
     - drop
     - function
     - aggregate
+
+## 3. [기본명령어](https://github.com/dudns1234/NoSQL/blob/master/3.%EA%B8%B0%EB%B3%B8%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+
+## 4. [json/csv 파일 import하는 방법](https://github.com/dudns1234/NoSQL/blob/master/4.json_csv_import.md)
+
+## 5. [Python으로 MongoDB 연결하는 방법](https://github.com/dudns1234/NoSQL/blob/master/5.Python_MongoDB.md)
+- 
